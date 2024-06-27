@@ -1,2 +1,2 @@
 # SQL-Code
-An Idepth SQL Script Queries Basic to Intermediate
+An Indepth SQL Script Queries Basic to Intermediate
